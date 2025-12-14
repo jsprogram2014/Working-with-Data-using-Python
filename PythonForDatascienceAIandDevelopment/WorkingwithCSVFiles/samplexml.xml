@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts_list>
+    <person>
+        <name>Alice Johnson</name>
+        <phonenumber>555-0101</phonenumber>
+        <birthday>1990-04-12</birthday>
+    </person>
+    
+    <person>
+        <name>Bob Smith</name>
+        <phonenumber>555-0102</phonenumber>
+        <birthday>1985-08-23</birthday>
+    </person>
+    
+    <person>
+        <name>Charlie Davis</name>
+        <phonenumber>555-0103</phonenumber>
+        <birthday>1992-11-05</birthday>
+    </person>
+</contacts_list>

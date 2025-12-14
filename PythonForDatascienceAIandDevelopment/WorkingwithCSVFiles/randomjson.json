@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "status": 200,
+    "generated_at": "2025-11-24T18:12:00Z",
+    "version": "1.4.2"
+  },
+  "users": [
+    {
+      "id": 4092,
+      "first_name": "Elena",
+      "last_name": "Vaugn",
+      "email": "elena.v@example.net",
+      "is_active": true,
+      "roles": ["editor", "admin"],
+      "preferences": {
+        "theme": "dark",
+        "notifications_enabled": true,
+        "language": "en-US"
+      },
+      "last_login_ip": "192.168.1.45"
+    },
+    {
+      "id": 4093,
+      "first_name": "Marcus",
+      "last_name": "Chen",
+      "email": "m.chen88@example.org",
+      "is_active": false,
+      "roles": ["viewer"],
+      "preferences": {
+        "theme": "system",
+        "notifications_enabled": false,
+        "language": "fr-CA"
+      },
+      "last_login_ip": null
+    },
+    {
+      "id": 4094,
+      "first_name": "Sarah",
+      "last_name": "O'Connor",
+      "email": "soconnor@example.com",
+      "is_active": true,
+      "roles": ["editor"],
+      "preferences": {
+        "theme": "light",
+        "notifications_enabled": true,
+        "language": "es-ES"
+      },
+      "last_login_ip": "10.0.0.12"
+    }
+  ]
+}
